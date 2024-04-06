@@ -1,0 +1,1 @@
+Attached the simple linear regression assignments in thsi folder
